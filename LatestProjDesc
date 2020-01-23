@@ -1,0 +1,19 @@
+Feb 2019 – till date, Bank of America Merrill Lynch(BAML)
+Java Developer-Back/Middle Office
+
+Working as Java developer in Global Liquidity Platform (GLP) team. GLP has number of applications which are using the non-permitted technologies. My work is to migrate these applications to use permitted technologies (Horizon migration and AppHost migration)  and leverage best practices and design principles. I also worked on providing the enhancements to the existing functionality of GLP.
+
+-	Migrated number of applications using Perforce version control, TeamCity, FishEye, Nexus Maven repo into Horizon platform (Utilizing Bitbucket, Artifactory, CI/CD pipeline using Jenkins & Ansible and SonarQube).
+-	Converted some of the monolithic applications into micro-service based applications and developed new applications following the 12-factor principles using Spring Boot and related technologies with the intention to make the applications cloud-ready.
+-	Refactored code using the latest dependencies and the configurations. Rewritten the auto-mated tests (Unit, DBITs, APITs, BDD tests) to run in isolation in the CI/CD pipeline.
+-	Create CI/CD pipelines using Jenkins and Ansible playbook scripts.
+-	Coded new SQL and PL-SQL scripts and rewritten existing scripts to run on Oracle 12C (DBaS). Working with DBAs resolve a few support tickets with Oracle after DB migrated from 11g to 12c.
+-	Created new Jenkin deployment jobs after migration to deploy into the existing Linux servers.
+-	Worked to setting up new infrastructure (AppHost VMs) and  configured the applications deployed in the VMs to connect to external end-points like  MQHub, ConnetDirect, DB, SMTP and FTP.
+-	Working in Agile sprints and pairing with developers and testers to develop and test the user-stories in each sprint.
+-	Monitored and improved the performance using the tools like jConsole, VisualVM and  DynaTrace
+-	Providing technical help and mentoring to other team members.
+-	Contributed towards developing the product backlog and actively involved in user-story grooming sessions.
+-	Created guidelines for new developers for local working environment setup and updated the release guidelines for Application Support teams.
+
+Environment: JAVA7/8, IntelliJ, jConsole, VisualVM, DynaTrace, Spring 4.X, Spring Boot, Spring Cloud, Hibernate 5.X, JMS, WebSphere MQ, Connect:Direct, RESTFul Services, XML, JSON, jUnit, jMock, PowerMock, Cucumber, jBehave, NodeJS, Oracle 12.X, CyberArk, Toad Data Point 4.X, UNIX, Shell Scripting, Maven, Artifactory, GIT, Perforce, Jenkins, Ansible, SonarQube, Jira, Bitbucket, Source Tree and Confluence.
